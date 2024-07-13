@@ -1,6 +1,6 @@
 # gplanta_raspizero_hat
 
-![Project Logo](images/project_logo.png)
+![Project Logo](gplanta_logo.png)
 
 ## Overview
 
