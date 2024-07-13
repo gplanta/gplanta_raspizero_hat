@@ -11,10 +11,9 @@ Python App coming soon.
 
 - **ONEWIRE**: Connect ONEWIRE Sensors.
 - **I2C**: Connect I2C Sensors.
-- **PWM**: Control 2 PWM signals.
-           - PWM1 only GND/PWM
-           - PWM2 with 12V DC input and rpm readout.
-
+- **PWM**: Control 2 PWM signals. PWM1 only GND/PWM. PWM2 with 12V DC input and rpm readout.
+- **RELAIS**: Connect 4 Relais.
+- **SPI**: Connect a SPI Display.
 ## PCB Overview
 Side:
 ![Project Logo](pcb_side.png)
