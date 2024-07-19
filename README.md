@@ -1,7 +1,5 @@
 # gplanta_raspizero_hat
 
-![Project Logo](gplanta.png)
-
 ## Overview
 
 This project is a Raspberry Pi Zero Sensor and PWM uHAT.
