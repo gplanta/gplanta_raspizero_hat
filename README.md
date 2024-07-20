@@ -1,5 +1,5 @@
 # gplanta_raspizero_hat
-
+![Project Logo](logo.svg)
 ## Overview
 
 This project is a Raspberry Pi Zero Sensor and PWM uHAT.
@@ -14,10 +14,10 @@ Python App coming soon.
 - **SPI**: Connect a SPI Display.
 ## PCB Overview
 Side:
-![Project Logo](pcb_side.png)
+![Side Logo](pcb_side.png)
 
 Front:
-![Project Logo](pcb_front.png)
+![Front Logo](pcb_front.png)
 
 Back:
-![Project Logo](pcb_back.png)
+![Back Logo](pcb_back.png)
