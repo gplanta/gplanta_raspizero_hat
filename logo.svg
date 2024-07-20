@@ -1,0 +1,34 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define styles -->
+  <style>
+    .box {
+      fill: black;
+      rx: 15; /* Rounded corners */
+    }
+    .textG {
+      fill: white;
+      font-size: 72px; /* Font size to match the sample */
+      font-weight: bold;
+      font-family: 'Poppins', sans-serif; /* Use similar font if available */
+      dominant-baseline: middle; /* Vertical centering */
+      text-anchor: middle; /* Horizontal centering */
+    }
+    .textRest {
+      fill: black;
+      font-size: 72px; /* Same size as 'G' for consistency */
+      font-weight: bold;
+      font-family: 'Poppins', sans-serif; /* Use similar font if available */
+      dominant-baseline: middle; /* Vertical centering */
+      text-anchor: start; /* Align text to start */
+    }
+  </style>
+
+  <!-- Black box for 'G' with decreased height -->
+  <rect x="5" y="20" width="80" height="80" class="box"/>
+
+  <!-- Text 'G' in the black box -->
+  <text x="45" y="65" class="textG">G</text>
+
+  <!-- Text 'Planta' moved closer to 'G' -->
+  <text x="90" y="65" class="textRest">Planta</text>
+</svg>
